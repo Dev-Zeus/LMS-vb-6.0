@@ -5,4 +5,4 @@ If your PC doesn't support all features of VB 6.0 , you may find difficulty usin
 
 You are welcome to made changes 
 
-Please fork and make pull request. I will definately accept that.
+Please fork and make pull request. I will definitely  accept that.
